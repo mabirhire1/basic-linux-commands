@@ -80,7 +80,9 @@ is used to copy files or directories and their content.
 ![Find Command](img/img-10-find-command.png)
 
 ## Challenge 
-1.  Permission Denied Errors
+
+1. Permission Denied Errors
+
 Cause: Trying to search in directories the current user can’t access.
 
 Fix: Use sudo to elevate privileges.
