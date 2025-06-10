@@ -58,7 +58,7 @@ Working with Linux is basically working with files and directories in any provis
 
  ![Side Hustle Task 1](img/img-05-task-1.png)
 
-**`cat` Command:** "Concatenate" or "cat" lists, combines, and writes file content to the terminal console. 
+**`cat` Command:** "Concatenate" or "cat" lists, combines, and writes file content to the terminal console. in the image below it displays the operating system identification details of the Linux distro.
 
 ![Concatenate Command](img/img-06-cat-command.png)
 
